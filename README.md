@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://benyam.dev/benyam.png" alt="Benyam Seifu" width="150" height="150" style="border-radius:50%; object-fit: cover;"/>
   <h1>Hi there, I'm Benyam Seifu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
-  <p><strong>Senior Software Engineer | Indie Hacker | Athlete | Kickboxer</strong></p>
+  <p><strong> Software/Product Engineer | Indie Hacker | Athlete | Kickboxer</strong></p>
   <p>📍 <a href="https://www.google.com/maps/place/addis-ababa">Addis Ababa, Ethiopia</a></p>
   <p>
     <a href="https://benyam.dev" target="_blank"><img src="https://img.shields.io/badge/Website-benyam.dev-blue?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"></a>
