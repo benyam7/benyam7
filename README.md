@@ -33,6 +33,15 @@ Built the frontend from scratch using SvelteKit for a decentralized identity and
 AI assistant trained on my professional experience and projects.
 
 ---
+### Building
+
+- AI Agents
+
+- SaaS Products
+
+- Internal Tools
+
+- Developer Platforms
 
 ## Stack
 
